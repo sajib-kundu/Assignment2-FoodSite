@@ -41,7 +41,10 @@ ul li a:hover{
   text-decoration: underline;
 }
 
-
+/* Change the color of the active indicator */
+.carousel-indicators .active {
+  background-color: #068b75; 
+}
 #hero .carousel-inner img {
     margin-top: 20px;
     width: 100%; 
