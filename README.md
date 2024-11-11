@@ -34,4 +34,4 @@ This is a responsive food website built using HTML, CSS, and Bootstrap 5. The we
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/food-website.git
+   git clone https://github.com/sajib-kundu/Assignment2-FoodSite/
